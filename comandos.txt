@@ -1,0 +1,2 @@
+echo 'PATH=~/.config/composer/vendor/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
